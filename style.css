@@ -1,0 +1,131 @@
+.first{
+    
+width: 1em;
+height: 1em;
+border-radius: 50%;
+
+}
+.second{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(9, 125, 241, 0.938);
+}
+.b1{
+    margin-top: 10px;
+}
+.third{
+    padding: 1em;
+}
+.forth{
+    display: inline-block;
+
+    margin-left: 160px;
+}
+.five{
+    display: inline-block;
+    margin-left: 120px;
+    margin-bottom: 10px;
+
+}
+button{
+
+    width: 100px;
+    height: 30px;
+    border: 1px solid rgb(120, 223, 17);
+    text-align: center;
+    background-color: white;
+    color: rgb(120, 223, 17);
+}
+.six{
+    margin-left: 100px;
+}
+.seven{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 70px;
+}
+.eight{
+    margin-left: 170px;
+    width: 250px;
+    height: 70px;
+}
+ul{
+    display: inline-block;
+    list-style: none;
+    margin-left: 200px;
+}
+li{
+    display: inline-block;
+    
+    
+}
+.libutton{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 12px;
+    border: white;
+    
+}
+.libutton:hover{
+    background-color: rgba(0, 0, 255, 0.657);
+  color: white;
+}
+.nine{
+    width: 100%;
+    height: 400px;
+}
+.ten{
+    width: 100%;
+    height: 400px;
+}
+.eleven{
+   border: 1px solid white;
+    width: 270px;
+    height: 200px;
+     text-align: center;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     text-align: center;
+     
+}
+
+.table1{
+
+    margin-left: 10em;
+}
+.saylani1{
+width: 130px;
+height: 70px;
+
+}
+.marquee1{
+    background-color: rgba(9, 125, 241, 0.938);
+    color: white;
+
+}
+.d1{
+    background-color: white;
+    margin-left: 170px;
+    width: 70%;
+    text-align: center;
+}
+.p1{
+
+    text-indent: 50px;
+    word-spacing: 10px;
+}
+
+
+.ig{
+
+    width: 230px; 
+    height: 150px;
+}
+#i1{
+    padding: none;
+    font-size: 15px;
+    color: green;
+    
+}
